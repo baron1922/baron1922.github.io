@@ -22,7 +22,8 @@ Options:
 
 Examples:
 
-`git clean -fnx` | Remove all files not in the repository.
+`git clean -fnx` | Clean ignored files.
+`git clean -fnX` | Only clean ignored files.
 
 
 
