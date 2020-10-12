@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Entity Framework Core"
+date:   2020-09-12 11:40:00 +1000
+categories: entity framework core
+---
+
+# Migrations
+* `dotnet ef migrations add`**`name`**`[--outout-dir`**`directory`**`]`
+* `dotnet ef migrations remove`
+* `dotnet ef migrations list`
+* `dotnet ef database update [`**`migration-name`**`]`
+* `dotnet ef `
+* `dotnet ef `
+* `dotnet ef `
